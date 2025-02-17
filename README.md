@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1>Hi, I'm Yeabsira! <br/><a href="https://github.com/yabbby">MERN-Stack Developer</a>, <a href="https://www.linkedin.com/in/joshmadakor/"> Software Engineer </a>, <a href="https://www.youtube.com/c/joshmadakor"> Virtual Assistance </a></h1>
 
-<!--
-**yabbby/yabbby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Software Development Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Praciting DS & Algos in Python](https://github.com/yabbby/alx-higher_level_programming)
+- <b>Full Stack Web App (React, NodeJS, ExpressJS, and MongoDB)</b>
+  - [TaskTide](https://github.com/yabbby/TaskTide) <b><i>(Weekly Planner)</b></i>
+- <b>PowerShell</b>
+  - [Shell Basics and Practices](https://github.com/yabbby/alx-system_engineering-devops)
+ - <b> Low-Level Programming Language Practice (AlgoExpert)</b>
+   - [Praciting in C](https://github.com/yabbby/alx-low_level_programming)
+- <b> Pathway Phase 2 </b>
+  - [EagleEye](https://www.canva.com/design/DAGMzNb6us8/wyTiU3Lg4fho6uz7NFqaBQ/edit?utm_content=DAGMzNb6us8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+  - [Youtube Video ](https://youtu.be/N2JwFBBxS8M?si=6pSUMyqxDpt6YzwA)
+  - [Slide Deck](https://www.canva.com/design/DAGcHKDTH0c/NtXcbGsgzdiX4uGeos83uQ/edit?utm_content=DAGcHKDTH0c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- <b>Python</b>
+  - [BookMatch (Data structures and Algorithms Demo)](https://github.com/yabbby/BookMatch)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>📺 Popular YouTube Videos</h2>
+
+- [TaskTide Demonstration ](https://youtu.be/7JeT3jt1pIg)
+<h2>🌱 Certifications:</h2>
+
+- [Software Engineering ](https://intranet.alxswe.com/certificates/82MX96EX5f)
+- [AI Career Essentials ](https://intranet.alxswe.com/certificates/CsyESFRGpT)
+- [Virtual Assistant ](https://intranet.alxswe.com/certificates/fR9MyesS2X)
+- [Programming Fundamentals ](https://www.udacity.com/certificate/e/a79f1b42-4ac5-11ef-8e78-af615f8d61ee)
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="Yabbby | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Yabbby | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Yabbby | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Yabbby | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[twitter]: https://x.com/YabbyAK
+[youtube]: https://www.youtube.com/@TheInsightfulJourney23
+[instagram]: https://www.instagram.com/ye_aba_net/
+[linkedin]: https://www.linkedin.com/in/yeabsira-terefe-499034256/
