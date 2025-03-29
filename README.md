@@ -10,10 +10,6 @@
   - [Shell Basics and Practices](https://github.com/yabbby/alx-system_engineering-devops)
  - <b> Low-Level Programming Language Practice (AlgoExpert)</b>
    - [Praciting in C](https://github.com/yabbby/alx-low_level_programming)
-- <b> Pathway Phase 2 </b>
-  - [EagleEye](https://www.canva.com/design/DAGMzNb6us8/wyTiU3Lg4fho6uz7NFqaBQ/edit?utm_content=DAGMzNb6us8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-  - [Youtube Video ](https://youtu.be/N2JwFBBxS8M?si=6pSUMyqxDpt6YzwA)
-  - [Slide Deck](https://www.canva.com/design/DAGcHKDTH0c/NtXcbGsgzdiX4uGeos83uQ/edit?utm_content=DAGcHKDTH0c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - <b>Python</b>
   - [BookMatch (Data structures and Algorithms Demo)](https://github.com/yabbby/BookMatch)
 
