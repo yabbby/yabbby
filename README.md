@@ -1,29 +1,67 @@
+
 <div align="center">
 
 # 👋 Hi, I'm **Yeabsira Terefe**
 
-### Full-Stack Software Engineer • Enterprise Software • Agritech • AI Solutions 🚀
+### Full-Stack Software Engineer • Systems Architect • Enterprise Platforms • Agritech & AI Systems Builder 🚀
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Full-Stack+Software+Engineer;Building+Enterprise+Software;Agricultural+Technology+Solutions;ERP+Systems+Developer;React+%7C+Node.js+%7C+TypeScript;AI-Powered+Applications;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=950&lines=Engineering+Scalable+Enterprise+Systems;Building+Agritech+%26+ERP+Platforms;Full-Stack+MERN+Engineer;AI-Driven+Software+Architecture;React+%7C+Node.js+%7C+TypeScript;System+Design+%26+Distributed+Thinking" />
 
-<img src="https://komarev.com/ghpvc/?username=yabbby&label=Profile%20Views&style=for-the-badge&color=0e75b6"/>
+<img src="https://komarev.com/ghpvc/?username=yabbby&label=Profile+Views&style=for-the-badge&color=0e75b6"/>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# 🎯 Developer System Overview
 
-I’m a **Full-Stack Software Engineer** focused on building scalable web applications, enterprise systems, and real-world digital platforms.
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1e3a8a&height=180&section=header&text=Enterprise%20Software%20Engineer&fontSize=28&fontColor=ffffff" />
+</p>
 
-I specialize in:
-- 🏢 Enterprise Software Systems  
-- 🌾 Agricultural Digital Platforms  
-- 🍄 Traceability & Supply Chain Systems  
-- 🤖 AI-powered Applications  
-- 🌐 MERN Stack Development  
-- 📑 System Design (BRD & SRS)  
-- ☁️ Scalable Backend Architecture  
+---
+
+# 👨‍💻 Engineering Profile
+
+I design and build **production-grade systems** focused on scalability, reliability, and long-term maintainability.
+
+My engineering focus includes:
+
+- 🏢 Enterprise ERP & Business Platforms  
+- 🌾 Agricultural Digital Ecosystems  
+- 🍄 Supply Chain & Traceability Systems  
+- 🤖 AI-Augmented Applications  
+- 🌐 Full-Stack Distributed Systems  
+- 📦 API-First Backend Architectures  
+- ☁️ Cloud-Ready Infrastructure Design  
+- 📑 End-to-End System Design (BRD → SRS → Architecture)  
+
+---
+
+# 🧠 Engineering Dashboard
+
+## ⚙️ System Health Monitor
+
+| Component        | Status | Notes |
+|------------------|--------|------|
+| 🟢 Services      | Stable & Scalable | Production-grade systems |
+| 🟢 Backend APIs   | Operational | REST architecture optimized |
+| 🟢 Databases      | Optimized | SQL + NoSQL hybrid design |
+| 🟡 AI Layer       | Active Development | Experimental integrations |
+| 🟢 Deployment     | Cloud-Ready | CI/CD supported workflows |
+
+---
+
+## 📌 Core Engineering Focus
+
+| Area | Description |
+|------|-------------|
+| 🚀 Distributed Systems | Scalable and fault-tolerant architecture design |
+| 🧩 Modular Architecture | Maintainable and extensible system design |
+| 🔐 Secure Backend Systems | Authentication, authorization, and API security |
+| 📦 API Engineering | High-performance REST API design & optimization |
+| 🤖 AI System Integration | Embedding AI into real-world workflows |
+| 📊 Data-Driven Systems | Analytics-powered application design |
 
 ---
 
@@ -41,7 +79,7 @@ I specialize in:
 
 ### Databases
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
 ### Languages
@@ -49,171 +87,131 @@ I specialize in:
 <img src="https://skillicons.dev/icons?i=js,ts,python,c,bash" />
 </p>
 
-### Tools
+### Tools & Infrastructure
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman,figma" />
 </p>
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Production Systems I’ve Built
 
-## 🌿 OmoAddis
-Agribusiness platform powering Ethiopia’s cassava ecosystem through investment, farming, processing, and export.
-
-🔗 https://www.omoaddis.com
-
----
-
-## 🌱 AddisEVA
-Agricultural investment evaluation and farmer onboarding platform.
-
-🔗 https://addiseva.com
+| Project | Domain | Description | Link |
+|--------|--------|-------------|------|
+| 🌿 **OmoAddis** | Agritech / ERP | End-to-end agribusiness ecosystem for cassava farming, investment, processing, and export systems. | https://www.omoaddis.com |
+| 🌱 **AddisEVA** | Agri-Investment Platform | Structured agricultural investment evaluation system for onboarding, project tracking, and lifecycle management. | https://addiseva.com |
+| 🍄 **HappySpore** | Agribusiness / Traceability | Mushroom production, training, traceability, and supply chain platform. | https://www.happyspore.com |
+| 🏢 **ALAMEK Family Trading PLC** | Enterprise Supply Chain | Agro-industrial equipment sourcing platform supporting procurement, logistics, and global trade operations. | https://alamektrading.com |
+| 🌾 **Ethiopian Cassava Association** | National Agritech Platform | Industry coordination platform for cassava research, mechanization, and ecosystem collaboration. | https://www.ethiopiancassavaassociation.com |
+| 🎨 **Tongue of Creations** | Digital Transformation Studio | Creative engineering agency focused on UI/UX, branding, and web systems. | Coming Soon |
 
 ---
 
-## 🍄 HappySpore
-Mushroom production, training, traceability, and agribusiness platform.
+# 📊 Live Engineering Activity
 
-🔗 https://www.happyspore.com
+<div align="center">
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yabbby&theme=tokyo-night&hide_border=true" />
 
-## 🏢 ALAMEK Family Trading PLC
-Corporate platform for agro-industrial equipment, global sourcing, and machinery supply chain solutions.
-
-🔗 https://alamektrading.com
+</div>
 
 ---
 
-## 🌾 Ethiopian Cassava Association
-National platform supporting cassava research, mechanization, and agricultural collaboration.
+# 💼 Portfolio System (In Progress)
 
-🔗 https://www.ethiopiancassavaassociation.com
+A next-generation engineering portfolio system is under development:
 
----
-
-## 🎨 Tongue of Creations
-Creative agency focused on branding, UI/UX, web development, and digital marketing.
-
-🔗 Coming Soon
+🧠 AI-assisted project exploration  
+📊 Real-time system activity dashboard  
+⚡ Engineering performance analytics  
+🏗️ Architecture visualization engine  
+📦 Full-stack system showcase  
 
 ---
 
-# 🎯 Areas of Expertise
+# 🎯 Core Expertise
 
-- Full-Stack MERN Development  
-- React & TypeScript  
-- Node.js & Express  
-- MySQL, MongoDB & Prisma  
-- Enterprise Software Architecture  
-- REST API Development  
-- Agricultural Technology Systems  
-- Supply Chain & Traceability Systems  
-- Authentication & Security  
-- System Design (BRD / SRS)  
-- AI Integration  
-- DevOps Basics  
+- Full-Stack MERN Engineering  
+- Enterprise System Architecture  
+- Scalable Backend Systems (Node.js)  
+- React & TypeScript Development  
+- Database Design (SQL + NoSQL)  
+- API Engineering & Security  
+- Agricultural Digital Systems  
+- Supply Chain Platform Design  
+- AI Integration in Software Systems  
+- System Design & Documentation  
 
 ---
 
-# 🌱 Currently Learning
+# 🌱 Currently Advancing
 
-- Clean Architecture  
-- Microservices  
+- Microservices Architecture  
 - Docker & Kubernetes  
-- CI/CD Pipelines  
-- Next.js  
-- Cloud Deployment  
-- Advanced System Design  
-- AI Engineering  
+- CI/CD Automation Pipelines  
+- Next.js Advanced Patterns  
+- Distributed Systems Engineering  
+- AI System Design & Automation  
 
 ---
 
-# 📜 Certifications
+# 📺 Content Engineering
 
-- ALX Software Engineering  
-- ALX AI Career Essentials  
-- ALX Virtual Assistant  
-- Udacity Programming Fundamentals  
+I create content around:
 
----
-
-# 📈 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yabbby&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yabbby&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=yabbby&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📊 GitHub Metrics
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yabbby&theme=tokyonight"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/yabbby/yabbby/output/github-contribution-grid-snake.svg" />
-
-</div>
-
----
-
-# 📺 Content Creation
-
-I create content about:
-- Software Engineering  
-- Full-Stack Development  
-- AI & Technology  
-- Programming Tutorials  
+- System Design Thinking  
+- Full-Stack Engineering  
+- AI in Software Systems  
+- Scalable Architecture Patterns  
 
 ### YouTube
-https://www.youtube.com/@TheSystemMindHQ
+https://www.youtube.com/@TheSystemMindHQ  
 
 ---
 
 # 📫 Connect With Me
 
-- GitHub: https://github.com/yabbby  
-- LinkedIn: https://www.linkedin.com/in/yeabsira-terefe-499034256/  
-- YouTube: https://www.youtube.com/@TheSystemMindHQ  
-- X (Twitter): https://x.com/YabbyAK  
-- Instagram: https://www.instagram.com/ye_aba_net/  
+## 📺 YouTube
+<a href="https://www.youtube.com/@TheSystemMindHQ" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-TheSystemMindHQ-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
 
 ---
 
-# 💡 Philosophy
+## 🔗 Social Links
 
-> “Building technology that creates real-world impact through thoughtful design and scalable systems.”
+<p align="center">
+
+<a href="https://github.com/yabbby" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/yeabsira-terefe-499034256/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://x.com/YabbyAK" target="_blank">
+  <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x"/>
+</a>
+
+<a href="https://www.instagram.com/ye_aba_net/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Engineering Philosophy
+
+> “Great systems are not built by writing code — but by designing clarity, scalability, and long-term value.”
 
 ---
 
 <div align="center">
 
-## ⭐ Thanks for visiting my profile!
+## ⭐ Thanks for visiting
 
-### Let’s build something impactful together 🚀
+### Let’s build systems that scale intelligently 🚀
 
 </div>
